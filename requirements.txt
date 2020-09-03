@@ -1,0 +1,4 @@
+stringcase==1.2.0
+faker==4.0.2
+rstr==2.2.6
+py-dateutil==2.2
