@@ -50,9 +50,10 @@ Hobbies and their take up in the UK was sourced from Harris Poll data here.
 
 https://theharrispoll.com/wp-content/uploads/2017/12/Harris-Interactive-Poll-Research-Work-Leisure-2007-11.pdf
 
-### Military Postings
+### Military Postings and Ranks
 
-### Military Ranks
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/866851/1_January_2020_SPS.xlsx
+https://en.wikipedia.org/wiki/Royal_Navy_other_rank_insignia
 
 ### Occupations
 The ONS publishes statistics on occupations.
